@@ -1,0 +1,28 @@
+name: Aesthetic Dentistry of Manhattan
+favicon: null
+layout_spectrum: 0.08401687373407185
+typography_spectrum: 0.9226532247848809
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4602719251997769
+  lightness: 0.8518542391248047
+  saturation: 0.025709205074235797
+  rhythmicContrast: 0.5296629874501377
+purpose: []
