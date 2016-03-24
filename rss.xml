@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aesthetic Dentistry of Manhattan]]></title>
         <description><![CDATA[Aesthetic Dentistry of Manhattan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aesthetic-dentistry-of-manhattan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 16:27:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 16:27:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aesthetic-dentistry-of-manhattan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who We Are]]></title>
+            <description><![CDATA[<article><h1>Who We Are</h1><p>Greetings!  My name is Dr. Alex Gause; I am the owner and dentist at Aesthetic Dentistry of Manhattan.  Located in midtown Manhattan, at the corner of Lexington Avenue and 58th Street, my practice exists to provide exceptional dental care to any and every patient that walks through my door.  All too frequently dental care has been but to the side or considered and afterthought when thinking about our general, mental, and emotional health, but this could not be farther from the truth!  Oral health is critical to our overall health, and my mission is to provide the type of care that emphasizes and embraces this importance.  It is also my mission to lower or remove the barriers that prevent people from getting the dental care they deserve.  This means everything from how long you wait in our waiting area (you don't wait!) to having clear and simple discussions about oral health instead of confusing dental jargon, to accommodating patients with extreme anxieties and phobias.  I believe that you should be able to come as you are to my practice and receive the most excellent dental experience possible.  This is my mission and my pledge to you as a patient.  </p></article>]]></description>
+            <link>https://thegrid.ai/aesthetic-dentistry-of-manhattan/who-we-are/index.html</link>
+            <guid isPermaLink="false">81727f70-982a-4f44-a8b2-a5cc84660135</guid>
+            <pubDate>Thu, 24 Mar 2016 16:26:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d3faae2-8c3d-4ea5-ae0c-7bb5b2db4320.jpg">]]></description>
-            <link>undefinede0642350-6fd9-470d-9341-fbe634df6051/index.html</link>
+            <link>https://thegrid.ai/aesthetic-dentistry-of-manhattan/e0642350-6fd9-470d-9341-fbe634df6051/index.html</link>
             <guid isPermaLink="false">e0642350-6fd9-470d-9341-fbe634df6051</guid>
             <pubDate>Thu, 24 Mar 2016 16:26:41 GMT</pubDate>
         </item>
